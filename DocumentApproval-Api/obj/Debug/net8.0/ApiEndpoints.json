@@ -1,0 +1,120 @@
+[
+  {
+    "ContainingType": "DocumentApproval_Api.Controllers.ApprovalDocumentController",
+    "Method": "GetAllApprovalStatus",
+    "RelativePath": "api/ApprovalDocument",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocumentApproval_Api.Controllers.ApprovalRequestController",
+    "Method": "SearchDocumentRequest",
+    "RelativePath": "api/ApprovalRequest/{Id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "DocumentFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "Status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocumentApproval_Api.Controllers.ApprovalRequestController",
+    "Method": "ApprovedDocument",
+    "RelativePath": "api/ApprovalRequest/ApprovedDocument",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocumentApproval_Api.Controllers.ApprovalRequestController",
+    "Method": "GetDocumentAllDocumentRequest",
+    "RelativePath": "api/ApprovalRequest/Inbox",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocumentApproval_Api.Controllers.ApprovalRequestController",
+    "Method": "RejectDocument",
+    "RelativePath": "api/ApprovalRequest/RejectDocument",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocumentApproval_Api.Controllers.CreateRequestController",
+    "Method": "AllRequestCreatedByEmail",
+    "RelativePath": "api/CreateRequest/AllRequest",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocumentApproval_Api.Controllers.CreateRequestController",
+    "Method": "CreateRequest",
+    "RelativePath": "api/CreateRequest/CreateRequest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "DocumentFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "DocumentCategory",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Approvals",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "ApprovedType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DocumentDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

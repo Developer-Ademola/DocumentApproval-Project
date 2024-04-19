@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\DocumentApproval-Project\DocumentApproval-Test\bin\Debug\net8.0\DocumentApproval-Test.deps.json
+C:\Users\USER\Desktop\DocumentApproval-Project\DocumentApproval-Test\bin\Debug\net8.0\DocumentApproval-Test.dll
+C:\Users\USER\Desktop\DocumentApproval-Project\DocumentApproval-Test\bin\Debug\net8.0\DocumentApproval-Test.pdb
+C:\Users\USER\Desktop\DocumentApproval-Project\DocumentApproval-Test\obj\Debug\net8.0\DocumentApproval-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\DocumentApproval-Project\DocumentApproval-Test\obj\Debug\net8.0\DocumentApproval-Test.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\DocumentApproval-Project\DocumentApproval-Test\obj\Debug\net8.0\DocumentApproval-Test.AssemblyInfo.cs
+C:\Users\USER\Desktop\DocumentApproval-Project\DocumentApproval-Test\obj\Debug\net8.0\DocumentApproval-Test.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\DocumentApproval-Project\DocumentApproval-Test\obj\Debug\net8.0\DocumentApproval-Test.sourcelink.json
+C:\Users\USER\Desktop\DocumentApproval-Project\DocumentApproval-Test\obj\Debug\net8.0\DocumentApproval-Test.dll
+C:\Users\USER\Desktop\DocumentApproval-Project\DocumentApproval-Test\obj\Debug\net8.0\refint\DocumentApproval-Test.dll
+C:\Users\USER\Desktop\DocumentApproval-Project\DocumentApproval-Test\obj\Debug\net8.0\DocumentApproval-Test.pdb
+C:\Users\USER\Desktop\DocumentApproval-Project\DocumentApproval-Test\obj\Debug\net8.0\ref\DocumentApproval-Test.dll

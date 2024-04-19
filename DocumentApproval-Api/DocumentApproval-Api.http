@@ -1,0 +1,6 @@
+@DocumentApproval_Api_HostAddress = http://localhost:5265
+
+GET {{DocumentApproval_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

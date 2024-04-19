@@ -1,0 +1,401 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\services\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\services\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\controllers\\approvaldocumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\controllers\\approvaldocumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\controllers\\approvalrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\controllers\\approvalrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\controllers\\createrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\controllers\\createrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\interfaces\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\interfaces\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\interfaces\\istoragelake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\interfaces\\istoragelake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\entities\\approved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\entities\\approved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\requestdtos\\approvalrequestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\requestdtos\\approvalrequestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\entities\\approvalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\entities\\approvalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\configurations\\cosmosdbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\configurations\\cosmosdbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\entities\\approvaldetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\entities\\approvaldetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\requestdtos\\createrequestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\requestdtos\\createrequestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\entities\\createrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\entities\\createrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\configurations\\dbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\configurations\\dbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\interfaces\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\interfaces\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\services\\storagelake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\services\\storagelake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\requestdtos\\approvaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\requestdtos\\approvaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\entities\\storagedbsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\entities\\storagedbsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|c:\\users\\ridwanisiaka\\source\\repos\\documentapproval-project\\documentapproval-api\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CCF1185-4CB5-4809-81B6-A1E1A67BEC2D}|DocumentApproval-Api\\DocumentApproval-Api.csproj|solutionrelative:documentapproval-api\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DbConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Configurations\\DbConfiguration.cs",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\Configurations\\DbConfiguration.cs",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Configurations\\DbConfiguration.cs",
+              "RelativeToolTip": "DocumentApproval-Api\\Configurations\\DbConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:47:58.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CosmosDbConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Configurations\\CosmosDbConfiguration.cs",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\Configurations\\CosmosDbConfiguration.cs",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Configurations\\CosmosDbConfiguration.cs",
+              "RelativeToolTip": "DocumentApproval-Api\\Configurations\\CosmosDbConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:47:37.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Program.cs",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\Program.cs",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Program.cs",
+              "RelativeToolTip": "DocumentApproval-Api\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T10:35:12.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\appsettings.json",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\appsettings.json",
+              "RelativeToolTip": "DocumentApproval-Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T10:35:34.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "DocumentApproval-Api\\Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T10:45:17.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Controllers\\CreateRequestController.cs",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\Controllers\\CreateRequestController.cs",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Controllers\\CreateRequestController.cs",
+              "RelativeToolTip": "DocumentApproval-Api\\Controllers\\CreateRequestController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAFwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T09:10:54.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApprovalDocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Controllers\\ApprovalDocumentController.cs",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\Controllers\\ApprovalDocumentController.cs",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Controllers\\ApprovalDocumentController.cs",
+              "RelativeToolTip": "DocumentApproval-Api\\Controllers\\ApprovalDocumentController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAwwHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T09:31:26.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApprovalRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Controllers\\ApprovalRequestController.cs",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\Controllers\\ApprovalRequestController.cs",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Controllers\\ApprovalRequestController.cs",
+              "RelativeToolTip": "DocumentApproval-Api\\Controllers\\ApprovalRequestController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAAJIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T09:43:49.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CosmosDbService.cs",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Services\\CosmosDbService.cs",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\Services\\CosmosDbService.cs",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Services\\CosmosDbService.cs",
+              "RelativeToolTip": "DocumentApproval-Api\\Services\\CosmosDbService.cs",
+              "ViewState": "AQIAAFoBAAAAAAAAAAAcwIcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T11:22:43.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Services\\EmailSender.cs",
+              "RelativeToolTip": "DocumentApproval-Api\\Services\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T11:22:44.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StorageLake.cs",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Services\\StorageLake.cs",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\Services\\StorageLake.cs",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Services\\StorageLake.cs",
+              "RelativeToolTip": "DocumentApproval-Api\\Services\\StorageLake.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T11:22:46.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Interfaces\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\Interfaces\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Interfaces\\IEmailSender.cs",
+              "RelativeToolTip": "DocumentApproval-Api\\Interfaces\\IEmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T11:24:14.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStorageLake.cs",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Interfaces\\IStorageLake.cs",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\Interfaces\\IStorageLake.cs",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Interfaces\\IStorageLake.cs",
+              "RelativeToolTip": "DocumentApproval-Api\\Interfaces\\IStorageLake.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T11:24:17.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Entities\\CreateRequest.cs",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\Entities\\CreateRequest.cs",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Entities\\CreateRequest.cs",
+              "RelativeToolTip": "DocumentApproval-Api\\Entities\\CreateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:21:29.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateRequestDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\RequestDTOs\\CreateRequestDTOs.cs",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\RequestDTOs\\CreateRequestDTOs.cs",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\RequestDTOs\\CreateRequestDTOs.cs",
+              "RelativeToolTip": "DocumentApproval-Api\\RequestDTOs\\CreateRequestDTOs.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvwsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:44:21.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApprovalRequest.cs",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Entities\\ApprovalRequest.cs",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\Entities\\ApprovalRequest.cs",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Entities\\ApprovalRequest.cs",
+              "RelativeToolTip": "DocumentApproval-Api\\Entities\\ApprovalRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:45:25.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StorageDbSetting.cs",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Entities\\StorageDbSetting.cs",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\Entities\\StorageDbSetting.cs",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Entities\\StorageDbSetting.cs",
+              "RelativeToolTip": "DocumentApproval-Api\\Entities\\StorageDbSetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:24:26.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApprovalRequestDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\RequestDTOs\\ApprovalRequestDTOs.cs",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\RequestDTOs\\ApprovalRequestDTOs.cs",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\RequestDTOs\\ApprovalRequestDTOs.cs",
+              "RelativeToolTip": "DocumentApproval-Api\\RequestDTOs\\ApprovalRequestDTOs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:28:19.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApprovalDto.cs",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\RequestDTOs\\ApprovalDto.cs",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\RequestDTOs\\ApprovalDto.cs",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\RequestDTOs\\ApprovalDto.cs",
+              "RelativeToolTip": "DocumentApproval-Api\\RequestDTOs\\ApprovalDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T00:21:57.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApprovalDetailModel.cs",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Entities\\ApprovalDetailModel.cs",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\Entities\\ApprovalDetailModel.cs",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Entities\\ApprovalDetailModel.cs",
+              "RelativeToolTip": "DocumentApproval-Api\\Entities\\ApprovalDetailModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T04:46:29.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICosmosDbService.cs",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Interfaces\\ICosmosDbService.cs",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\Interfaces\\ICosmosDbService.cs",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Interfaces\\ICosmosDbService.cs",
+              "RelativeToolTip": "DocumentApproval-Api\\Interfaces\\ICosmosDbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T09:36:23.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Approved.cs",
+              "DocumentMoniker": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Entities\\Approved.cs",
+              "RelativeDocumentMoniker": "DocumentApproval-Api\\Entities\\Approved.cs",
+              "ToolTip": "C:\\Users\\RidwanIsiaka\\source\\repos\\DocumentApproval-Project\\DocumentApproval-Api\\Entities\\Approved.cs",
+              "RelativeToolTip": "DocumentApproval-Api\\Entities\\Approved.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:33:12.691Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
