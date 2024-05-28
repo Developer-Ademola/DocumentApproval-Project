@@ -4,8 +4,9 @@ using Microsoft.OpenApi.Models;
 using DocumentApproval_Api.Interfaces;
 using DocumentApproval_Api.Services;
 using Microsoft.IdentityModel.Tokens;
-using System.Collections.Generic;
 using System;
+using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -36,6 +37,7 @@ builder.Services.AddControllers().AddJsonOptions(options =>
 {
     options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
 });
+
 builder.Services.AddCosmosDbConfiguration(builder.Configuration);
 builder.Services.AddStorageAccountConfiguration(builder.Configuration);
 builder.Services.AddEndpointsApiExplorer();
