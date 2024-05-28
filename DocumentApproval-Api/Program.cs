@@ -1,11 +1,10 @@
+using DocumentApproval_Api.Configurations;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Identity.Web;
 using Microsoft.OpenApi.Models;
 using DocumentApproval_Api.Interfaces;
 using DocumentApproval_Api.Services;
 using Microsoft.IdentityModel.Tokens;
-using System;
-using System.Collections.Generic;
 using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -33,18 +32,15 @@ builder.Services.AddAuthorization(options =>
     options.FallbackPolicy = options.DefaultPolicy;
 });
 
-builder.Services.AddControllers().AddJsonOptions(options =>
-{
-    options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
-});
-
+builder.Services.AddControllers().AddNewtonsoftJson();
+builder.Services.AddControllers();
 builder.Services.AddCosmosDbConfiguration(builder.Configuration);
 builder.Services.AddStorageAccountConfiguration(builder.Configuration);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddDbConfig(builder.Configuration);
 builder.Services.AddSingleton<IEmailSender, EmailSender>();
 builder.Services.AddScoped<IStorageLake, StorageLake>();
-builder.Services.AddScoped<ICosmosDbService, CosmosDbService>();
+builder.Services.AddScoped<ICosmosDbService, CosmosDbSercice>();
 
 builder.Services.AddSwaggerGen(c =>
 {
